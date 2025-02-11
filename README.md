@@ -1,9 +1,8 @@
 ## Hi 👋, My name is Hyeji Yu
 
 ### Interest
-- **DevOps**
-- **Cloud Infrastructure**
 - **Data Engineering**
+- **Server Engineering**
 
 ### Skills
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
